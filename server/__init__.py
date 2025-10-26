@@ -1,0 +1,1 @@
+"""Minimal chat server package."""
